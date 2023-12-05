@@ -1,0 +1,21 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,400;1,600&family=Rubik+Bubbles&display=swap');
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    font-family: 'poppins' sans-serif;
+}
+li{
+    padding: 10px;
+}
+
+img.slide{
+    height: 700px;
+}
+
+.text-center{
+    padding-top: 30px;
+
+}
